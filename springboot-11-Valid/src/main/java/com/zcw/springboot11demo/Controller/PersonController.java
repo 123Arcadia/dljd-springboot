@@ -1,6 +1,7 @@
-package com.zcw.springboot11demo;
+package com.zcw.springboot11demo.Controller;
 
 
+import com.zcw.springboot11demo.Pojo.Person;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;

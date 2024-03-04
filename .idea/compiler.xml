@@ -21,6 +21,7 @@
         <module name="springboot-12-Druid" />
         <module name="springboot-17-SpringTask" />
         <module name="springboot-18-Quartz" />
+        <module name="springboot-ReadConfig" />
         <module name="springboot-13-MyBatisPlus" />
         <module name="demomp" />
         <module name="springboot-11-demo" />
@@ -28,7 +29,6 @@
         <module name="springboot-10-restFulTest" />
         <module name="springboot-07-Filter" />
         <module name="demo-Slf4j" />
-        <module name="Test01" />
         <module name="spring-03-aop-EffectForMySQL" />
         <module name="springboot-08-MyBatis" />
         <module name="spring-02-aop" />
@@ -73,14 +73,13 @@
       <module name="springboot-demo" target="1.8" />
       <module name="springboot-ExceptionHandlerTest" target="1.8" />
       <module name="springboot-mp-demo" target="1.8" />
+      <module name="springboot-ReadConfig" target="1.8" />
       <module name="springboot-TestMybatis-demo" target="1.8" />
       <module name="springMvc-01-RequestAndResponse" target="1.8" />
-      <module name="Test01" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Test01" options="-parameters" />
       <module name="demo-Slf4j" options="-parameters" />
       <module name="demo01" options="-parameters" />
       <module name="demomp" options="-parameters" />
@@ -107,6 +106,7 @@
       <module name="springboot-17-SpringTask" options="-parameters" />
       <module name="springboot-18-Quartz" options="-parameters" />
       <module name="springboot-ExceptionHandlerTest" options="-parameters" />
+      <module name="springboot-ReadConfig" options="-parameters" />
       <module name="springboot-TestMybatis-demo" options="-parameters" />
       <module name="springboot-demo" options="-parameters" />
       <module name="springboot-mp-demo" options="-parameters" />

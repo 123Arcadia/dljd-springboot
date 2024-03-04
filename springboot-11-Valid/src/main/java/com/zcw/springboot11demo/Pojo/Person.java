@@ -1,4 +1,4 @@
-package com.zcw.springboot11demo;
+package com.zcw.springboot11demo.Pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
