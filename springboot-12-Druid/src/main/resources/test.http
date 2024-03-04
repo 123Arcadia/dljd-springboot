@@ -1,0 +1,29 @@
+###
+GET localhost:8080/books/1
+
+###
+GET localhost:8080/books/2
+
+###
+POST localhost:8080/books
+Content-Type: application/json
+
+{
+  "type": "nlp",
+  "name": "zcw",
+  "description": "chatgpt"
+}
+
+###
+PUT localhost:8080/books
+Content-Type: application/json
+
+{
+  "id": "15",
+  "type": "nlp",
+  "name": "zcw",
+  "description": "chatgpt3"
+}
+
+###
+DELETE localhost:8080/books/13

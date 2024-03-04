@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-14-redis" />
+        <module name="demo01" />
+        <module name="springboot-mp-demo" />
+        <module name="springboot-04-userService" />
+        <module name="springboot-TestMybatis-demo" />
+        <module name="springboot-09-MyBatis_MapperScan" />
+        <module name="springboot-ExceptionHandlerTest" />
+        <module name="springboot-demo" />
+        <module name="springboot-06-servlet" />
+        <module name="springboot-12-Druid" />
+        <module name="springboot-13-MyBatisPlus" />
+        <module name="springboot-11-demo" />
+        <module name="demomp" />
+        <module name="springboot-10-restFulTest" />
+        <module name="springboot-07-Filter" />
+        <module name="demo-Slf4j" />
+        <module name="Test01" />
+        <module name="spring-03-aop-EffectForMySQL" />
+        <module name="springboot-08-MyBatis" />
+        <module name="spring-02-aop" />
+        <module name="springboot-03multi_env" />
+        <module name="springboot-002" />
+        <module name="springboot-05-interceptor" />
+        <module name="springMvc-01-RequestAndResponse" />
+        <module name="springboot-001" />
+        <module name="spring-01-Annoation" />
+        <module name="spring-Annoation-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-mybatisplus-easycode" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Test01" options="-parameters" />
+      <module name="demo-Slf4j" options="-parameters" />
+      <module name="demo01" options="-parameters" />
+      <module name="demomp" options="-parameters" />
+      <module name="spring-01-Annoation" options="-parameters" />
+      <module name="spring-Annoation-demo" options="-parameters" />
+      <module name="springboot-001" options="-parameters" />
+      <module name="springboot-002" options="-parameters" />
+      <module name="springboot-03multi_env" options="-parameters" />
+      <module name="springboot-04-userService" options="-parameters" />
+      <module name="springboot-05-interceptor" options="-parameters" />
+      <module name="springboot-06-servlet" options="-parameters" />
+      <module name="springboot-07-Filter" options="-parameters" />
+      <module name="springboot-08-MyBatis" options="-parameters" />
+      <module name="springboot-09-MyBatis_MapperScan" options="-parameters" />
+      <module name="springboot-10-restFulTest" options="-parameters" />
+      <module name="springboot-11-demo" options="-parameters" />
+      <module name="springboot-12-Druid" options="-parameters" />
+      <module name="springboot-13-MyBatisPlus" options="-parameters" />
+      <module name="springboot-14-redis" options="-parameters" />
+      <module name="springboot-ExceptionHandlerTest" options="-parameters" />
+      <module name="springboot-TestMybatis-demo" options="-parameters" />
+      <module name="springboot-demo" options="-parameters" />
+      <module name="springboot-mp-demo" options="-parameters" />
+      <module name="springboot-mybatisplus-easycode" options="-parameters" />
+    </option>
+  </component>
+</project>

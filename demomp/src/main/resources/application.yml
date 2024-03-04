@@ -1,0 +1,20 @@
+
+spring:
+  datasource:
+    password: 123456
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    # 注意数据库本地是spring_db
+#    url: jdbc:mysql://localhost:3306/mybatisplus_db?serverTimezone=UTC
+    url: jdbc:mysql://localhost:3306/mybatisplus_db?serverTimezone=Asia/Shanghai
+
+server:
+  port: 8080
+
+
+# mybatis的日志信息
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  mapper-locations: com.zcw.demomp.Dao/*.xml

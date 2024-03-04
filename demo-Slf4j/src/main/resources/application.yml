@@ -1,0 +1,10 @@
+# 文件的路径和级别已经在logback-spring.xml中设置
+logging:
+  config:
+  classpath: log4j.properties
+
+  # 可以换成xml,不过xml还没写error的日志
+
+
+#  path: operation-mysql-logs
+#  level.: debug

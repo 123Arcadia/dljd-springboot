@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--<configuration>-->
+<!--    <mapper namespace="com.springboot08mybatis.model.User">-->
+
+<!--        <select id="selectById" resultType="com.springboot08mybatis.model.User"-->
+<!--                select id,name, address,password,phone where=#{user_id}-->
+<!--        </select>-->
+<!--    </mapper>-->
+
+<!--</configuration>-->
+<mapper namespace="com.springboot08mybatis.dao.UserDao">
+
+            <select id="selectById" resultType="com.springboot08mybatis.model.User">
+                    select id,address,password,phone,name from test.user where id=#{id};
+            </select>
+</mapper>

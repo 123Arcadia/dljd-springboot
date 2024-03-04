@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/doc/content/[235]二叉搜索树的最近公共祖先.md" />
+              <option name="frontendQuestionId" value="leetcode.cn235" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[450]删除二叉搜索树中的节点.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/doc/content/[450]删除二叉搜索树中的节点.md" />
+              <option name="frontendQuestionId" value="leetcode.cn450" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[450]删除二叉搜索树中的节点.java" />
+              <option name="titleSlug" value="delete-node-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[501]二叉搜索树中的众数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/doc/content/[501]二叉搜索树中的众数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn501" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[501]二叉搜索树中的众数.java" />
+              <option name="titleSlug" value="find-mode-in-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[530]二叉搜索树的最小绝对差.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/doc/content/[530]二叉搜索树的最小绝对差.md" />
+              <option name="frontendQuestionId" value="leetcode.cn530" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[530]二叉搜索树的最小绝对差.java" />
+              <option name="titleSlug" value="minimum-absolute-difference-in-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[701]二叉搜索树中的插入操作.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/doc/content/[701]二叉搜索树中的插入操作.md" />
+              <option name="frontendQuestionId" value="leetcode.cn701" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[701]二叉搜索树中的插入操作.java" />
+              <option name="titleSlug" value="insert-into-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="E:/leetCodeForIdeaPlugin/leetcode/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/doc/content/[235]二叉搜索树的最近公共祖先.md" />
+              <option name="frontendQuestionId" value="leetcode.cn235" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="E:/leetCodeForIdeaPlugin/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.java" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo01/pom.xml" />
+        <option value="$PROJECT_DIR$/demomp/pom.xml" />
+        <option value="$PROJECT_DIR$/Test01/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-Slf4j/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-02-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-001/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mp-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-01-Annoation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-11-Valid/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-12-Druid/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-14-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-07-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-Annoation-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-06-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10-restFul/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03multi_env/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-userService/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-05-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-10-restFulTest/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-13-MyBatisPlus/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-TestMybatis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-03-aop-EffectForMySQL/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-003multi_dev_pros/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-08-MyBatis_Mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-002_Controller_yml/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-ExceptionHandlerTest/pom.xml" />
+        <option value="$PROJECT_DIR$/springMvc-01-RequestAndResponse/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-09-MyBatis_MapperScan/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-15-Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-16-Knife4j/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-17-SpringTask/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-18-Quartz/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

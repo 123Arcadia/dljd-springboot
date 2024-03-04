@@ -1,0 +1,20 @@
+###
+GET localhost:8080/api/person?id=9
+
+
+###
+POST localhost:8080/api/person1
+Content-Type: application/x-www-form-urlencoded
+
+classId=1&name=zcww&sex=1&email=1119045415@qq.com
+
+
+###
+GET http://localhost:8080/api/person?id=6
+
+
+###
+GET http://localhost:8080/api/person
+
+
+

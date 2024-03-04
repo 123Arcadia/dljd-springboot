@@ -1,0 +1,5 @@
+# Project exclude paths
+/spring-02-aop/target/
+/spring-03-aop-EffectForMySQL/target/
+/springboot-001/target/
+/springMvc-01-RequestAndResponse/target/

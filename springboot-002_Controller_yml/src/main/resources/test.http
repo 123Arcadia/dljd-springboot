@@ -1,0 +1,8 @@
+###
+GET http://localhost:8082/myboot/hello
+
+###
+GET http://localhost:8082/myboot/pros
+#HelloSpringBoot{port='8082', contextPath='/myboot',
+#school_name='dljd', school_website='www.baidu.com', site='www.hao123.com'}
+
